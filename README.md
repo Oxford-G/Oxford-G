@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Personal Projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for my next challenge in Develop.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play football.
 
 ### Connect with me:
@@ -46,7 +46,7 @@
   <img align="left" alt="Oxford's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Oxford-g&show_icons=true&hide_border=true" />
 
 
-[portfolio]: https://Oxford-G.github.io/portfolio-v2
+[portfolio]: https://Oxford-G.github.io
 [twitter]: https://twitter.com/OXFOXD2
 [linkedin]: https://www.linkedin.com/in/chinonso-enekwechi-a96954193
 
