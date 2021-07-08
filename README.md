@@ -43,7 +43,8 @@
 
   <summary> Github Stats</summary>
 
-  <img align="left" alt="Oxford's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Oxford-g&show_icons=true&hide_border=true" />
+  <img align="left" alt="Oxford's Github Stats" src="[![Oxford's Github Stats](https://github-readme-stats.vercel.app/api?username=oxford)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 
 [portfolio]: https://Oxford-G.github.io
