@@ -1,6 +1,6 @@
 ### Hi there, I'm Enekwechi Chinonso Gerald 👋
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://anthonytc89.github.io/portfolio-v2/)](https://Oxford-G.github.io/portfolio-v2/)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://gracious-hermann-bca978.netlify.app/)](https://Oxford-G.github.io/portfolio-v2/)
 
 ## I'm a Full Stack Developer!
 
