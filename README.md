@@ -13,8 +13,8 @@
 ### Connect with me:
 
 [<img align="left" style="margin: 0.5rem" alt="Oxford-G" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gracious-hermann-bca978.netlify.app/)
-[<img align="left" style="margin: 0.5rem" alt="Oxford2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OXFOXD2]
-[<img align="left" style="margin: 0.5rem" alt="Oxford-G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/chinonso-enekwechi]
+[<img align="left" style="margin: 0.5rem" alt="Oxford2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/OXFOXD2)
+[<img align="left" style="margin: 0.5rem" alt="Oxford-G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chinonso-enekwechi)
 
 <br />
 
