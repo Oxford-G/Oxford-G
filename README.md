@@ -6,16 +6,15 @@
 
 
 - 🔭 I’m currently working on Personal Projects!
-<!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking for my next challenge in Develop.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play football.
 
 ### Connect with me:
 
-[<img align="left" style="margin: 0.5rem" alt="Oxford-G" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" style="margin: 0.5rem" alt="Oxford2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="margin: 0.5rem" alt="Oxford-G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="margin: 0.5rem" alt="Oxford-G" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://gracious-hermann-bca978.netlify.app/]
+[<img align="left" style="margin: 0.5rem" alt="Oxford2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OXFOXD2]
+[<img align="left" style="margin: 0.5rem" alt="Oxford-G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/chinonso-enekwechi]
 
 <br />
 
@@ -49,7 +48,7 @@
 
 [portfolio]: https://Oxford-G.github.io
 [twitter]: https://twitter.com/OXFOXD2
-[linkedin]: https://www.linkedin.com/in/chinonso-enekwechi-a96954193
+[linkedin]: https://www.linkedin.com/in/chinonso-enekwechi
 
 
 
