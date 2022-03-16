@@ -1,14 +1,14 @@
 ### Hi there, I'm Enekwechi Chinonso Gerald 👋
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://gracious-hermann-bca978.netlify.app/)](https://Oxford-G.github.io/portfolio-v2/)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://gracious-hermann-bca978.netlify.app/)](https://gracious-hermann-bca978.netlify.app/)
 
 ## I'm a Full Stack Developer!
 
 
 - 🔭 I’m currently working on Personal Projects!
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking for my next challenge in Develop.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play football.
 
 ### Connect with me:
